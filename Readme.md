@@ -2,6 +2,10 @@
 
 为了方便大家使用 [PandoraNext](https://github.com/pandora-next/deploy) 进行合租完成了这个小轮子。
 
+> [!WARNING]
+>
+> 根据始皇提示，当前 UI 下不显示其他人会话会有滚动bug，若要使用请酌情考虑~
+
 ![image](https://github.com/Ink-Osier/PandoraIsolateConversation/assets/133617214/1907b4bd-70c8-41a2-b081-16e641ea5686)
 
 
