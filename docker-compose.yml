@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  backend-to-api:
+    image: wizerd/pandora-isolate-middleware:latest
+    restart: always
+    environment:
+      - PANDORA_BACKEND_URL=http://172.17.0.1:8181
+      - FILTER_KEYWORD=*
+    ports:
+      - "50012:33333"
+    
