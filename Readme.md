@@ -2,6 +2,9 @@
 
 为了方便大家使用 [PandoraNext](https://github.com/pandora-next/deploy) 进行合租完成了这个小轮子。
 
+![image](https://github.com/Ink-Osier/PandoraIsolateConversation/assets/133617214/1907b4bd-70c8-41a2-b081-16e641ea5686)
+
+
 # 部署方式
 
 1. docker-compose.yml
